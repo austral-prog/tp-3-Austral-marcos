@@ -1,6 +1,6 @@
 def check_vowels():
     nombre = input("Ingrese nombre: ")
-    print ("Contiene a: True".lower())
+    print ("contiene a: true".lower())
 
     print ("Contiene a:", "a" in nombre or "A" in nombre)
     print ("Contiene e:", "e" in nombre or "E" in nombre)
